@@ -1,4 +1,4 @@
-# Documentação Técnica: Análise do Projeto e Estudo de Viabilidade de Implantação — SISMUMA
+# Documentação Técnica: Análise do Projeto e Estudo de Viabilidade de Implantação — SisMA
 
 ---
 
