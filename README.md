@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker)
 ![Livewire](https://img.shields.io/badge/Livewire-3.x-4E56A6?style=for-the-badge&logo=livewire)
 
-O **SISMUMA Sistema Municipal de Meio Ambiente 1.0** é um sistema integrado e moderno para gestão e fiscalização ambiental, projetado para secretarias municipais de meio ambiente. Ele digitaliza e otimiza processos, desde o licenciamento até a fiscalização em campo, utilizando tecnologias de ponta para garantir eficiência, transparência e segurança.
+O **SisMA Sistema de Meio Ambiente** é um sistema integrado e moderno para gestão e fiscalização ambiental, projetado para secretarias municipais de meio ambiente. Ele digitaliza e otimiza processos, desde o licenciamento até a fiscalização em campo, utilizando tecnologias de ponta para garantir eficiência, transparência e segurança.
 
 ---
 
