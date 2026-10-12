@@ -1,4 +1,4 @@
-# 🌳 SISMA Sistema de Meio Ambiente
+# 🌳 SisMA Sistema de Meio Ambiente
 
 ![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php)
